@@ -1,0 +1,1 @@
+This site is an example of meta tags
